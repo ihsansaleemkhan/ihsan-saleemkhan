@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css",
+    "main.js": "/ihsan-saleemkhan/static/js/main.f2ab1f5c.chunk.js",
+    "main.js.map": "/ihsan-saleemkhan/static/js/main.f2ab1f5c.chunk.js.map",
+    "runtime-main.js": "/ihsan-saleemkhan/static/js/runtime-main.91cdaa44.js",
+    "runtime-main.js.map": "/ihsan-saleemkhan/static/js/runtime-main.91cdaa44.js.map",
+    "static/js/2.456d47ea.chunk.js": "/ihsan-saleemkhan/static/js/2.456d47ea.chunk.js",
+    "static/js/2.456d47ea.chunk.js.map": "/ihsan-saleemkhan/static/js/2.456d47ea.chunk.js.map",
+    "static/js/3.ddf199b8.chunk.js": "/ihsan-saleemkhan/static/js/3.ddf199b8.chunk.js",
+    "static/js/3.ddf199b8.chunk.js.map": "/ihsan-saleemkhan/static/js/3.ddf199b8.chunk.js.map",
+    "static/js/4.ed1dfddb.chunk.js": "/ihsan-saleemkhan/static/js/4.ed1dfddb.chunk.js",
+    "static/js/4.ed1dfddb.chunk.js.map": "/ihsan-saleemkhan/static/js/4.ed1dfddb.chunk.js.map",
+    "static/js/5.b4bc2922.chunk.js": "/ihsan-saleemkhan/static/js/5.b4bc2922.chunk.js",
+    "static/js/5.b4bc2922.chunk.js.map": "/ihsan-saleemkhan/static/js/5.b4bc2922.chunk.js.map",
+    "index.html": "/ihsan-saleemkhan/index.html",
+    "precache-manifest.0970355d220e18211198e69eb17cceb0.js": "/ihsan-saleemkhan/precache-manifest.0970355d220e18211198e69eb17cceb0.js",
+    "service-worker.js": "/ihsan-saleemkhan/service-worker.js",
+    "static/css/main.c4fdaf3c.chunk.css.map": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css.map",
+    "static/js/2.456d47ea.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/2.456d47ea.chunk.js.LICENSE.txt",
+    "static/js/3.ddf199b8.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/3.ddf199b8.chunk.js.LICENSE.txt",
+    "static/js/4.ed1dfddb.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/4.ed1dfddb.chunk.js.LICENSE.txt",
+    "static/js/5.b4bc2922.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/5.b4bc2922.chunk.js.LICENSE.txt",
+    "static/media/DTS.png": "/ihsan-saleemkhan/static/media/DTS.1e47ff18.png",
+    "static/media/admin.png": "/ihsan-saleemkhan/static/media/admin.52c7fd36.png",
+    "static/media/asset-management.png": "/ihsan-saleemkhan/static/media/asset-management.d8df0923.png",
+    "static/media/avatar.jpg": "/ihsan-saleemkhan/static/media/avatar.15b23a4f.jpg",
+    "static/media/App.css": "/ihsan-saleemkhan/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/ihsan-saleemkhan1.jpeg": "/ihsan-saleemkhan/static/media/ihsan-saleemkhan1.0a6f116f.jpeg",
+    "static/media/ihsan-saleemkhan2.jpeg": "/ihsan-saleemkhan/static/media/ihsan-saleemkhan2.cf075920.jpeg",
+    "static/media/ihsan-saleemkhan3.jpeg": "/ihsan-saleemkhan/static/media/ihsan-saleemkhan3.946d996e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91cdaa44.js",
+    "static/js/2.456d47ea.chunk.js",
+    "static/css/main.c4fdaf3c.chunk.css",
+    "static/js/main.f2ab1f5c.chunk.js"
+  ]
+}

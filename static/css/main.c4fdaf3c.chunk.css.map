@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,4FAA+D,CAI/D,qBACF","file":"main.c4fdaf3c.chunk.css","sourcesContent":["body {\r\n  background: url(coffee-apple.jpg) no-repeat center center fixed;\r\n  -webkit-background-size: cover;\r\n  -moz-background-size: cover;\r\n  -o-background-size: cover;\r\n  background-size: cover;\r\n}\r\n"]}
