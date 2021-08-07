@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const menuItems = [
-  { listIcon: <Home />, listText: "Home", listPath: "/" },
+  { listIcon: <Home />, listText: "Home", listPath: "/ihsan-saleemkhan" },
   {
     listIcon: <SchoolIcon />,
     listText: "Education",

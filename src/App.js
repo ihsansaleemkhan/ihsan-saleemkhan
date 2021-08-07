@@ -16,7 +16,7 @@ function App() {
       <CssBaseline />
       <Navbar />
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/ihsan-saleemkhan" component={Home} />
         <Route exact path="/education" component={Education} />
         <Route exact path="/resume" component={Resume} />
         <Route exact path="/portfolio" component={Portfolio} />
