@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css",
-    "main.js": "/ihsan-saleemkhan/static/js/main.f2ab1f5c.chunk.js",
-    "main.js.map": "/ihsan-saleemkhan/static/js/main.f2ab1f5c.chunk.js.map",
+    "main.js": "/ihsan-saleemkhan/static/js/main.b350ee47.chunk.js",
+    "main.js.map": "/ihsan-saleemkhan/static/js/main.b350ee47.chunk.js.map",
     "runtime-main.js": "/ihsan-saleemkhan/static/js/runtime-main.91cdaa44.js",
     "runtime-main.js.map": "/ihsan-saleemkhan/static/js/runtime-main.91cdaa44.js.map",
     "static/js/2.456d47ea.chunk.js": "/ihsan-saleemkhan/static/js/2.456d47ea.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/5.b4bc2922.chunk.js": "/ihsan-saleemkhan/static/js/5.b4bc2922.chunk.js",
     "static/js/5.b4bc2922.chunk.js.map": "/ihsan-saleemkhan/static/js/5.b4bc2922.chunk.js.map",
     "index.html": "/ihsan-saleemkhan/index.html",
-    "precache-manifest.0970355d220e18211198e69eb17cceb0.js": "/ihsan-saleemkhan/precache-manifest.0970355d220e18211198e69eb17cceb0.js",
+    "precache-manifest.23307cb6dbf35ba731071cab6887c834.js": "/ihsan-saleemkhan/precache-manifest.23307cb6dbf35ba731071cab6887c834.js",
     "service-worker.js": "/ihsan-saleemkhan/service-worker.js",
     "static/css/main.c4fdaf3c.chunk.css.map": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css.map",
     "static/js/2.456d47ea.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/2.456d47ea.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.91cdaa44.js",
     "static/js/2.456d47ea.chunk.js",
     "static/css/main.c4fdaf3c.chunk.css",
-    "static/js/main.f2ab1f5c.chunk.js"
+    "static/js/main.b350ee47.chunk.js"
   ]
 }
