@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Switch } from "react-router-dom";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Home from "./components";
+import Skills from "./components/Skills";
 import Education from "./components/Education";
 import Resume from "./components/Resume";
 import Navbar from "./components/Navbar";
@@ -17,6 +18,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/ihsan-saleemkhan" component={Home} />
+        <Route exact path="/skills" component={Skills} />
         <Route exact path="/education" component={Education} />
         <Route exact path="/resume" component={Resume} />
         <Route exact path="/portfolio" component={Portfolio} />

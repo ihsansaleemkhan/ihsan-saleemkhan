@@ -19,6 +19,8 @@ import WorkIcon from "@material-ui/icons/Work";
 import Home from "@material-ui/icons/Home";
 import Apps from "@material-ui/icons/Apps";
 import ContactMail from "@material-ui/icons/ContactMail";
+import RowingIcon from "@material-ui/icons/Rowing";
+
 import { makeStyles } from "@material-ui/core/styles";
 import avatar from "../avatar.jpg";
 
@@ -53,6 +55,7 @@ const useStyles = makeStyles((theme) => ({
 
 const menuItems = [
   { listIcon: <Home />, listText: "Home", listPath: "/ihsan-saleemkhan" },
+  { listIcon: <RowingIcon />, listText: "My Skills", listPath: "/skills" },
   {
     listIcon: <SchoolIcon />,
     listText: "Education",
@@ -74,7 +77,7 @@ const Navbar = () => {
 
   const sideList = () => (
     <Box className={classes.menuSliderContainer} component="div">
-      <Avatar className={classes.avatar} src={avatar} alt="Mahmudul Alam" />
+      <Avatar className={classes.avatar} src={avatar} alt="Ihsan Saleemkhan" />
       <Divider />
       <List>
         {menuItems.map((item, i) => (

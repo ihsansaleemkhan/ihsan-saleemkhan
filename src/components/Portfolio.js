@@ -8,6 +8,7 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 
+import beeontime from "../images/beeontime.png";
 import admin from "../images/admin.png";
 import dts from "../images/DTS.png";
 import asset from "../images/asset-management.png";
@@ -18,12 +19,27 @@ const useStyles = makeStyles((theme) => ({
     height: "100%",
   },
   cardContainer: {
-    maxWidth: 345,
-    margin: "3rem auto",
+    width: "65rem",
+    margin: "3rem 3rem",
+  },
+  MuiCardMediaimg: {
+    objectFit: "fill",
+    height: "35rem",
+  },
+  MuiGridContainer: {
+    width: "100%",
+    display: "contents",
+    flexWrap: "wrap",
+    boxSizing: "border-box",
   },
 }));
 
 const projects = [
+  {
+    name: "Bee on time - User App",
+    description: `The Bee on time application develop for booking taxis, this project have Admin, Provider, fleet and user Modules. The use app is done by my self`,
+    image: beeontime,
+  },
   {
     name: "Driving Training System Admin",
     description: `The DTS admin is provided with a full database for each car used in the training for the Traffic Directorate can monitor its license permit,
@@ -51,14 +67,13 @@ const Portfolio = () => {
       <Grid container justify="center">
         {/* Projects */}
         {projects.map((project, i) => (
-          <Grid item xs={12} sm={8} md={4} key={i}>
+          <Grid item key={i}>
             <Card className={classes.cardContainer}>
               <CardActionArea>
                 <CardMedia
                   component="img"
-                  alt="Project 1"
-                  height="140"
                   image={project.image}
+                  className={classes.MuiCardMediaimg}
                 />
                 <CardContent>
                   <Typography variant="h5" gutterBottom>
