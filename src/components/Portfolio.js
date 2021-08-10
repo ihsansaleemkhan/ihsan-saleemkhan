@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
 const projects = [
   {
     name: "Bee on time - User App",
-    description: `The Bee on time application develop for booking taxis, this project have Admin, Provider, fleet and user Modules. The use app is done by my self`,
+    description: `The Bee on time application develop for book cab services, this project have 4 modules those are Admin, Provider, fleet and user Modules. The user module is done by my self`,
     image: beeontime,
   },
   {
