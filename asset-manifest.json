@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css",
-    "main.js": "/ihsan-saleemkhan/static/js/main.a9842be6.chunk.js",
-    "main.js.map": "/ihsan-saleemkhan/static/js/main.a9842be6.chunk.js.map",
+    "main.js": "/ihsan-saleemkhan/static/js/main.a34a11d6.chunk.js",
+    "main.js.map": "/ihsan-saleemkhan/static/js/main.a34a11d6.chunk.js.map",
     "runtime-main.js": "/ihsan-saleemkhan/static/js/runtime-main.9262b63f.js",
     "runtime-main.js.map": "/ihsan-saleemkhan/static/js/runtime-main.9262b63f.js.map",
-    "static/js/2.3b76e26f.chunk.js": "/ihsan-saleemkhan/static/js/2.3b76e26f.chunk.js",
-    "static/js/2.3b76e26f.chunk.js.map": "/ihsan-saleemkhan/static/js/2.3b76e26f.chunk.js.map",
+    "static/js/2.0dca5cd5.chunk.js": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js",
+    "static/js/2.0dca5cd5.chunk.js.map": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js.map",
     "static/js/3.1715693e.chunk.js": "/ihsan-saleemkhan/static/js/3.1715693e.chunk.js",
     "static/js/3.1715693e.chunk.js.map": "/ihsan-saleemkhan/static/js/3.1715693e.chunk.js.map",
     "static/js/4.d39554c4.chunk.js": "/ihsan-saleemkhan/static/js/4.d39554c4.chunk.js",
@@ -14,10 +14,10 @@
     "static/js/5.1d94bc74.chunk.js": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js",
     "static/js/5.1d94bc74.chunk.js.map": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js.map",
     "index.html": "/ihsan-saleemkhan/index.html",
-    "precache-manifest.5195b62ee9f502910db0104c5bd8832d.js": "/ihsan-saleemkhan/precache-manifest.5195b62ee9f502910db0104c5bd8832d.js",
+    "precache-manifest.770ca0746afc6b4b78287f198ffbb8bf.js": "/ihsan-saleemkhan/precache-manifest.770ca0746afc6b4b78287f198ffbb8bf.js",
     "service-worker.js": "/ihsan-saleemkhan/service-worker.js",
     "static/css/main.c4fdaf3c.chunk.css.map": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css.map",
-    "static/js/2.3b76e26f.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/2.3b76e26f.chunk.js.LICENSE.txt",
+    "static/js/2.0dca5cd5.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js.LICENSE.txt",
     "static/js/3.1715693e.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/3.1715693e.chunk.js.LICENSE.txt",
     "static/js/4.d39554c4.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/4.d39554c4.chunk.js.LICENSE.txt",
     "static/js/5.1d94bc74.chunk.js.LICENSE.txt": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js.LICENSE.txt",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9262b63f.js",
-    "static/js/2.3b76e26f.chunk.js",
+    "static/js/2.0dca5cd5.chunk.js",
     "static/css/main.c4fdaf3c.chunk.css",
-    "static/js/main.a9842be6.chunk.js"
+    "static/js/main.a34a11d6.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca56fb07da95d375772e2119010cd685",
+    "revision": "933a81ee1e6cc30579b16fa11200c195",
     "url": "/ihsan-saleemkhan/index.html"
   },
   {
-    "revision": "f28d04e370b3ae6fed2f",
+    "revision": "6d75cfbe66448e8648fb",
     "url": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css"
   },
   {
-    "revision": "519a1ee7623c54729de2",
-    "url": "/ihsan-saleemkhan/static/js/2.3b76e26f.chunk.js"
+    "revision": "893e44bf632bd0dda7aa",
+    "url": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js"
   },
   {
     "revision": "e4e2e5c39889c7bbeb7a279dcd0ea8bc",
-    "url": "/ihsan-saleemkhan/static/js/2.3b76e26f.chunk.js.LICENSE.txt"
+    "url": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "fd36261939a3a4e668b0",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f28d04e370b3ae6fed2f",
-    "url": "/ihsan-saleemkhan/static/js/main.a9842be6.chunk.js"
+    "revision": "6d75cfbe66448e8648fb",
+    "url": "/ihsan-saleemkhan/static/js/main.a34a11d6.chunk.js"
   },
   {
     "revision": "e79f0fc136287962068a",
