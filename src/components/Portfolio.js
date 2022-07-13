@@ -8,10 +8,13 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 
+import hosta_admin from "../images/hosta-admin.png";
+import hosta_website from "../images/hosta-website.png";
 import beeontime from "../images/beeontime.png";
 import admin from "../images/admin.png";
 import dts from "../images/DTS.png";
 import asset from "../images/asset-management.png";
+
 
 const useStyles = makeStyles((theme) => ({
   mainContainer: {
@@ -24,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
   },
   MuiCardMediaimg: {
     objectFit: "fill",
-    height: "35rem",
+    height: "100%",
   },
   MuiGridContainer: {
     width: "100%",
@@ -35,6 +38,16 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const projects = [
+  {
+    name: "Hosta Admin",
+    description: `Admin panel is created for manage products, manage shops, track orders, track drivers, check revenue data from the dashboard and with more options. This project is developed using AngularJs for frontend and Nodejs for backend.`,
+    image: hosta_admin,
+  },
+  {
+    name: "Hosta Website",
+    description: `Hosta website is created for company promotions, show products, agreements and contact detatils. This website is developed using AngularJs for frontend and Nodejs for backend.`,
+    image: hosta_website,
+  },
   {
     name: "Bee on time - User App",
     description: `The Bee on time application develop for book cab services, this project have 4 modules those are Admin, Provider, fleet and user Modules. The user module is done by my self`,

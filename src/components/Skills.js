@@ -81,11 +81,6 @@ const skills = [
     level: "85%",
   },
   {
-    title: "SASS",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/220px-Sass_Logo_Color.svg.png",
-    level: "80%",
-  },
-  {
     title: "JavaScript",
     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png",
     level: "80%",
@@ -96,8 +91,28 @@ const skills = [
     level: "80%",
   },
   {
+    title: "AngularJs",
+    logo: "https://miro.medium.com/max/1200/1*_IHDTTv-8szUfWhAJ5cC1A.png",
+    level: "80%",
+  },
+  {
     title: "NodeJs",
     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png",
+    level: "80%",
+  },
+  {
+    title: "Java",
+    logo: "https://library.kissclipart.com/20181218/xcw/kissclipart-java-development-kit-png-clipart-java-development-8f99aa57c7ee9283.png",
+    level: "80%",
+  },
+  {
+    title: "MySql",
+    logo: "https://funnydev.edu.vn/uploads/thumbnails/course_thumbnails/course_thumbnail_default_33.jpg",
+    level: "80%",
+  },
+  {
+    title: "MongoDB",
+    logo: "https://www.tutorialsteacher.com/Content/images/home/mongodb.svg",
     level: "80%",
   },
 ];

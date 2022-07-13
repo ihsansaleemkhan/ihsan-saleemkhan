@@ -62,7 +62,7 @@ const Header = () => {
         <Typed
           strings={[
             "Frontend Developer",
-            "UX/UI Designer",
+            "Backend Developer",
             "Native App Developer",
           ]}
           typeSpeed={100}
@@ -70,7 +70,7 @@ const Header = () => {
           loop
         />
 
-        <p>A Frontend developer based in the Qatar. </p>
+        <p>A Fullstack developer based in the Qatar. </p>
         <p>
           working remotely with Individuals and Organization. Currently,
           Developer at Holoteq Group.
