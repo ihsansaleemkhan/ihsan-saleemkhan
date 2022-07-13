@@ -1,51 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "933a81ee1e6cc30579b16fa11200c195",
+    "revision": "ad923d5069d1a5e7ee554079f1a0f260",
     "url": "/ihsan-saleemkhan/index.html"
   },
   {
-    "revision": "6d75cfbe66448e8648fb",
+    "revision": "c975a7f80bb1135205a5",
     "url": "/ihsan-saleemkhan/static/css/main.c4fdaf3c.chunk.css"
   },
   {
-    "revision": "893e44bf632bd0dda7aa",
-    "url": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js"
+    "revision": "ddf2d5b6bb4bd96681bc",
+    "url": "/ihsan-saleemkhan/static/js/2.d77e040c.chunk.js"
   },
   {
     "revision": "e4e2e5c39889c7bbeb7a279dcd0ea8bc",
-    "url": "/ihsan-saleemkhan/static/js/2.0dca5cd5.chunk.js.LICENSE.txt"
+    "url": "/ihsan-saleemkhan/static/js/2.d77e040c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd36261939a3a4e668b0",
-    "url": "/ihsan-saleemkhan/static/js/3.1715693e.chunk.js"
+    "revision": "b2f6948c943d6b10c39a",
+    "url": "/ihsan-saleemkhan/static/js/3.546ef09f.chunk.js"
   },
   {
     "revision": "7ec01595672f75e83fd81b41f132f4c1",
-    "url": "/ihsan-saleemkhan/static/js/3.1715693e.chunk.js.LICENSE.txt"
+    "url": "/ihsan-saleemkhan/static/js/3.546ef09f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e42384e497692ea9594",
-    "url": "/ihsan-saleemkhan/static/js/4.d39554c4.chunk.js"
+    "revision": "a7d4ae52c207dd4d46c1",
+    "url": "/ihsan-saleemkhan/static/js/4.54f39b34.chunk.js"
   },
   {
     "revision": "809abad1ab3333af372fdc0cd7f2829d",
-    "url": "/ihsan-saleemkhan/static/js/4.d39554c4.chunk.js.LICENSE.txt"
+    "url": "/ihsan-saleemkhan/static/js/4.54f39b34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b73cb7d041c8dac3d472",
-    "url": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js"
+    "revision": "f58e11acf44676a2c0f1",
+    "url": "/ihsan-saleemkhan/static/js/5.d1005e61.chunk.js"
   },
   {
     "revision": "7303fb104718deedc447d0f351b45d55",
-    "url": "/ihsan-saleemkhan/static/js/5.1d94bc74.chunk.js.LICENSE.txt"
+    "url": "/ihsan-saleemkhan/static/js/5.d1005e61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d75cfbe66448e8648fb",
-    "url": "/ihsan-saleemkhan/static/js/main.a34a11d6.chunk.js"
+    "revision": "c975a7f80bb1135205a5",
+    "url": "/ihsan-saleemkhan/static/js/main.dfd2bdb2.chunk.js"
   },
   {
-    "revision": "e79f0fc136287962068a",
-    "url": "/ihsan-saleemkhan/static/js/runtime-main.9262b63f.js"
+    "revision": "a29fc5dbefbe06ed7388",
+    "url": "/ihsan-saleemkhan/static/js/runtime-main.3ba1ab19.js"
   },
   {
     "revision": "4374a9b3bbe975304f33cb61ae2249ba",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2dd213aa54b22c3bca0c62f570d1512a",
     "url": "/ihsan-saleemkhan/static/media/coffee-apple.2dd213aa.jpg"
+  },
+  {
+    "revision": "546064c0ece488625f3a8f9d37eaf1b8",
+    "url": "/ihsan-saleemkhan/static/media/hosta-admin.546064c0.png"
+  },
+  {
+    "revision": "d9162baa7f27c4e6ae55f987b4d99129",
+    "url": "/ihsan-saleemkhan/static/media/hosta-website.d9162baa.png"
   },
   {
     "revision": "0a6f116f3c4469c6a832543d85131fa9",
