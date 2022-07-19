@@ -10,6 +10,7 @@ import Typography from "@material-ui/core/Typography";
 
 import hosta_admin from "../images/hosta-admin.png";
 import hosta_website from "../images/hosta-website.png";
+import mood_website from "../images/mood-web.png"
 import beeontime from "../images/beeontime.png";
 import admin from "../images/admin.png";
 import dts from "../images/DTS.png";
@@ -47,6 +48,11 @@ const projects = [
     name: "Hosta Website",
     description: `Hosta website is created for company promotions, show products, agreements and contact detatils. This website is developed using AngularJs for frontend and Nodejs for backend.`,
     image: hosta_website,
+  },
+  {
+    name: "Mood Website",
+    description: `MOOD™ is the first software application and service that provides multi-channel communications of unparalleled quality and a commitment to privacy and free communication. Use MOOD™ for video calls, voice and text messaging, sending and receiving videos, photos, and documents, sharing stories, and more. Simultaneously connect with one or more contacts, groups, and social media networks – free of charge. Create a channel to share your beautiful moments with others. With MOOD™, your user information and online interactions remain private and secure using proprietary data anonymization technologies. The MOOD™ family of software products and services provide an experience like no other. Sit back and express your MOOD™.`,
+    image: mood_website,
   },
   {
     name: "Bee on time - User App",
