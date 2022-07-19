@@ -23,17 +23,21 @@ const useStyles = makeStyles((theme) => ({
     height: "100%",
   },
   cardContainer: {
-    width: "65rem",
-    margin: "3rem 3rem",
+    width: "100%"
   },
   MuiCardMediaimg: {
     objectFit: "fill",
     height: "100%",
+    width: "100%",
   },
   MuiGridContainer: {
     width: "100%",
     display: "contents",
     flexWrap: "wrap",
+    boxSizing: "border-box",
+  },
+  MuiGridItem: {
+    margin: "2rem 1rem",
     boxSizing: "border-box",
   },
 }));
@@ -86,7 +90,7 @@ const Portfolio = () => {
       <Grid container justify="center">
         {/* Projects */}
         {projects.map((project, i) => (
-          <Grid item key={i}>
+          <Grid item key={i} className={classes.MuiGridItem}>
             <Card className={classes.cardContainer}>
               <CardActionArea>
                 <CardMedia
